@@ -1,4 +1,3 @@
 module github.com/bryankenote/bibleutils
 
-go 1.19
-
+go 1.21
